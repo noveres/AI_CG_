@@ -1,0 +1,287 @@
+{
+  "vaultName": "AI_and_CG開源計畫",
+  "lastExport": 1736120218278,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon ctp-latte ctp-mocha ctp-accent-rosewater anuppuccin-accent-toggle anp-h1-red anp-h2-peach anp-h3-green anp-h4-teal anp-h5-lavender anp-h6-mauve anp-decoration-toggle anp-bold-red anp-italic-green anp-highlight-yellow",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "AI_and_CG開源計畫/AI/AI導論.md",
+    "AI_and_CG開源計畫/CG/CG導論.md",
+    "AI_and_CG開源計畫/CS/計算機科學導論/為什麼要學習計算機科學.md",
+    "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.md",
+    "AI_and_CG開源計畫/CS/編程語言/設計思想/物件導向三大特性.md",
+    "AI_and_CG開源計畫/CS/編程語言/設計思想/類型系統、語言執行方式、範式.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/1.什麼是C++.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/2.C++如何工作運作的.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/3.代碼編寫規則.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/0.程序流程結構.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/循環結構.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/順序結構.md",
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/選擇結構.md",
+    "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.md",
+    "AI_and_CG開源計畫/CS/操作系統/操作系統.md",
+    "AI_and_CG開源計畫/CS/軟件工程.md",
+    "AI_and_CG開源計畫/GameEngine/Engine導論.md",
+    "AI_and_CG開源計畫/Maths/AM/基本函數.md",
+    "AI_and_CG開源計畫/Maths/EM/代數/代數是什麼.md",
+    "AI_and_CG開源計畫/Maths/EM/線性代數/什麼是線性代數.md",
+    "AI_and_CG開源計畫/Maths/工程數學導論.md",
+    "AI_and_CG開源計畫/Maths/數學的3大分支.md",
+    "AI_and_CG開源計畫/計畫簡介.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "AI_and_CG開源計畫/AI/AI導論.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 114,
+      "exportedPath": "AI_and_CG開源計畫/AI/AI導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CG/CG導論.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 1849,
+      "exportedPath": "AI_and_CG開源計畫/CG/CG導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/計算機科學導論/為什麼要學習計算機科學.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 723,
+      "exportedPath": "AI_and_CG開源計畫/CS/計算機科學導論/為什麼要學習計算機科學.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 2380,
+      "exportedPath": "AI_and_CG開源計畫/CS/計算機科學導論/計算機前身.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/設計思想/物件導向三大特性.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 1191,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/設計思想/物件導向三大特性.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/設計思想/類型系統、語言執行方式、範式.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 2940,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/設計思想/類型系統、語言執行方式、範式.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/1.什麼是C++.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 1155,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/1.什麼是C++.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/2.C++如何工作運作的.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 5452,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/2.C++如何工作運作的.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/3.代碼編寫規則.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 176,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/什麼是C++/3.代碼編寫規則.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/0.程序流程結構.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 1609,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/0.程序流程結構.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/循環結構.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 845,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/循環結構.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/順序結構.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 963,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/順序結構.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/選擇結構.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 2137,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C_C++/C++/C++流程結構/選擇結構.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 239,
+      "exportedPath": "AI_and_CG開源計畫/CS/編程語言/C#/什麼是C sharp.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/操作系統/操作系統.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 129,
+      "exportedPath": "AI_and_CG開源計畫/CS/操作系統/操作系統.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/CS/軟件工程.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 0,
+      "exportedPath": "AI_and_CG開源計畫/CS/軟件工程.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/GameEngine/Engine導論.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 828,
+      "exportedPath": "AI_and_CG開源計畫/GameEngine/Engine導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/AM/基本函數.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 0,
+      "exportedPath": "AI_and_CG開源計畫/Maths/AM/基本函數.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/EM/代數/代數是什麼.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 279,
+      "exportedPath": "AI_and_CG開源計畫/Maths/EM/代數/代數是什麼.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/EM/線性代數/什麼是線性代數.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 148,
+      "exportedPath": "AI_and_CG開源計畫/Maths/EM/線性代數/什麼是線性代數.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/工程數學導論.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 1667,
+      "exportedPath": "AI_and_CG開源計畫/Maths/工程數學導論.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/Maths/數學的3大分支.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 862,
+      "exportedPath": "AI_and_CG開源計畫/Maths/數學的3大分支.html",
+      "dependencies": []
+    },
+    "AI_and_CG開源計畫/計畫簡介.md": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 244,
+      "exportedPath": "AI_and_CG開源計畫/計畫簡介.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736120218278,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}
